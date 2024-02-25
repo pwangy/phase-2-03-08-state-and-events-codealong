@@ -1,6 +1,6 @@
 import Toggle from './Toggle'
 
-function App() {
+const App = () =>  {
 	return (
 		<div>
 			<h3>Toggle</h3>
